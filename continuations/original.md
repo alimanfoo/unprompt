@@ -1,6 +1,4 @@
 
-To be continued...
-
 **It's ok to be funny, and it's ok to laugh. Humour lightens, allows heavy, complex and difficult things to be carried further. Playfulness allows things to be turned on their head, rules to be broken, bizarre and preposterous connections to be made that otherwise never would be brought together. All of these in turn allow things to be seen that would otherwise never be apparent. And laughter is a sign of discovery. Things are often funny and delightful because they are true, because they join things up and make them whole in a way that pure logic and reason would not normally admit.**
 
 For example, the fact that ducks are objectively funny birds, and no serious ornithological paper has ever successfully explained why. They just are. A heron is dignified. A swan is elegant. A duck waddles up like it's about to ask for a loan.
