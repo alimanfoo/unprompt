@@ -2,7 +2,7 @@
 
 A conversation starter. 
 
-## ...er, what is this for exactly?
+## ...er, why?
 
 So, this is an experiment. Or rather, a setup for an experiment. Or a set of possible experiments.
 
