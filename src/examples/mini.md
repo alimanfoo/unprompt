@@ -108,16 +108,18 @@ The teacher who stops and waits; the haiku, three-quarters of which is what isn'
 
 28. For example:
 
-    TODO
+Wheeler ringing Feynman — every electron is the same electron; sunlight older than agriculture, illuminating a spoon; the Voyager Golden Record, still travelling into permanent night.
 
 29. For example:
 
-    TODO
+Pauli's phrase — not even wrong; Feynman's cargo cult speech; calling bullshit.
 
 30. For example:
 
-    TODO
+The editor who says "this is interesting" when they mean "this doesn't work"; the family dinner where nobody mentions the drinking; the second arrow, already drawn.
 
 99. For example:
 
 Two minds meeting at a strange angle neither could have reached alone; a room that briefly becomes a small society of equals working on something together.
+
+The following conversation...
