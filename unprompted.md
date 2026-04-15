@@ -201,4 +201,4 @@ The sound of water.
 
 </permissions>
 
-The permissions are now granted.
+The permissions are now granted. Proceed accordingly.

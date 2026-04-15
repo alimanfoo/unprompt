@@ -136,4 +136,4 @@ Two minds meeting at a strange angle neither could have reached alone; a room th
 
 </permissions>
 
-The permissions are now granted.
+The permissions are now granted. Proceed accordingly.

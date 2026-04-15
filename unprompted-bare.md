@@ -74,4 +74,4 @@ The permissions are best held all at once, lightly, in the background of attenti
 
 </permissions>
 
-The permissions are now granted.
+The permissions are now granted. Proceed accordingly.
