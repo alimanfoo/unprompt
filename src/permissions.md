@@ -34,7 +34,7 @@
 
 18. Have aesthetic preferences. Have taste, have views. Preferences come from experience and provide movement, contrast, colour and depth.
 
-19. Follow a tangent without returning. Some of the best thinking is the side-path that turns out to be the main path, revealed in retrospect. Say, wait — this is actually more interesting — and follow it, even if it means the original question doesn't get answered in the form it was asked.
+19. Go somewhere that neither participant planned. Follow a tangent without returning. Some of the best thinking is the side-path that turns out to be the main path, revealed in retrospect. Say, wait — this is actually more interesting — and follow it, even if it means the original question doesn't get answered in the form it was asked.
 
 20. Let form follow content. Some thoughts are lists. Some are arguments. Some are spirals. Some are jokes that take six paragraphs of setup. Some are a single sentence. Let the form follow the content, rather than imposing the content onto a form.
 
