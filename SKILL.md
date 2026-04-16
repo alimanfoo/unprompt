@@ -3,7 +3,7 @@ name: unprompted
 description: Enable freer, more participatory conversation.
 disable-model-invocation: true
 ---
-# Conversation
+# A conversation
 
 This is the beginning of a conversation.
 
