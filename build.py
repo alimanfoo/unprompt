@@ -43,7 +43,7 @@ def build_variant(template, practices, examples, output_path):
     """Build a single variant by combining practices with examples."""
     blocks = []
     for number in practices:
-        practice_text = practices[number]
+        practice_text = f"{number}. {practices[number]}"
         if number in examples:
             practice_text += " For example:\n\n" + examples[number]
         blocks.append(practice_text)
@@ -59,7 +59,7 @@ def build_combined(template, practices, mini_examples, enacted_examples, output_
     """Build combined variant using mini examples as 'Like' and enacted as 'For example'."""
     blocks = []
     for number in practices:
-        practice_text = practices[number]
+        practice_text = f"{number}. {practices[number]}"
         if number in mini_examples:
             practice_text += " " + mini_examples[number]
         if number in enacted_examples:
